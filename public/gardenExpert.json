@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/images/girl_1.jpg",
+    "name": "Lila Fernandes",
+    "specialization": "Indoor Plant Care & Soil Nutrition Specialist"
+  },
+  {
+    "id": 2,
+    "image": "/images/boy_1.jpg",
+    "name": "Ethan Roy",
+    "specialization": "Succulent & Cactus Growth Expert"
+  },
+  {
+    "id": 3,
+    "image": "/images/girl_2.jpg",
+    "name": "Sofia Ahmed",
+    "specialization": "Tropical Plants & Humidity Management Specialist"
+  },
+  {
+    "id": 4,
+    "image": "/images/boy_2.jpg",
+    "name": "Daniel Green",
+    "specialization": "Plant Propagation & Pest Control Expert"
+  }
+]
